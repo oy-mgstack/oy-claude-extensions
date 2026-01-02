@@ -1,0 +1,10 @@
+{
+  "your-project-name": {
+    "defaultReviewers": [
+      "github-username-1",
+      "github-username-2",
+      "github-username-3"
+    ],
+    "minReviewers": 2
+  }
+}
