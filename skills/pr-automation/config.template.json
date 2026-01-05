@@ -1,0 +1,24 @@
+{
+  "defaultSettings": {
+    "workspace": "~/WORKSPACE",
+    "defaultTargetBranch": "develop",
+    "releaseDay": "목요일",
+    "jiraBaseUrl": "https://your-jira.atlassian.net/browse",
+    "defaultPRType": "ship"
+  },
+  "slack": {
+    "webhookUrl": "",
+    "enabled": false,
+    "askBeforeSend": true,
+    "mentionUser": false,
+    "slackMemberId": ""
+  },
+  "projects": {
+    "your-project-name": {
+      "path": "~/WORKSPACE/your-project-name",
+      "githubOrg": "YOUR_GITHUB_ORG",
+      "githubRepo": "your-repo-name",
+      "description": "프로젝트 설명"
+    }
+  }
+}
